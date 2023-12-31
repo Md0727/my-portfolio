@@ -3779,3 +3779,11 @@ content: var(--tw-content);
 .slideshow ul li figure::-webkit-scrollbar {
     display: none;
 }
+/* a.backButton {
+    background-color: #ffb400;
+    width: 150px;
+    display: block;
+    padding: 7px;
+    position: relative;
+    top: 32px;
+} */
